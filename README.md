@@ -52,9 +52,11 @@ To be able to answer the following items objectively:
 
 #### plot1.R
 It appears from the barplot below that the total emissions from PM2.5 **decreased** in the United States from 1999 to 2008.
+![pl1](https://github.com/proj20/EDA_CourseProject2/blob/master/plot1.png?raw=true)
 
 #### plot2.R
 It appears from the barplot below that the total emissions from PM2.5 **decreased** in Baltimore City, Maryland from 1999 to 2008.
+![pl2](https://github.com/proj20/EDA_CourseProject2/blob/master/plot2.png?raw=true)
 
 #### plot3.R
 It appears from the line charts that the following sources have the following trends:
@@ -63,15 +65,19 @@ It appears from the line charts that the following sources have the following tr
 2. NONPOINT > **decrease**
 3. ON-ROAD  > **decrease**
 4. POINT    > **increase**
+![pl3](https://github.com/proj20/EDA_CourseProject2/blob/master/plot3.png?raw=true)
 
 #### plot4.R
 It appears from the barplots below that a **sudden decrease** in coal combustion-related emissions only appeared at year **2008**.
+![pl4](https://github.com/proj20/EDA_CourseProject2/blob/master/plot4.png?raw=true)
 
 #### plot5.R
 It appears from the barplots below that a **steady decrease** in vehicle-related emissions.
+![pl5](https://github.com/proj20/EDA_CourseProject2/blob/master/plot5.png?raw=true)
 
 #### plot6.R
 It appears from the line charts that there is a huge gap between motor vehicle emissions between Baltimore and LA.
+![pl6](https://github.com/proj20/EDA_CourseProject2/blob/master/plot6.png?raw=true)
 Therefore, a slight variation in vehicle emissions in LA would still yield greater change over time and is calculated for both counties below:
 
 ```
